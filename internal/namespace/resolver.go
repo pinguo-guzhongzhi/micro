@@ -27,6 +27,11 @@ func (r Resolver) ResolveWithType(req *http.Request) string {
 	return r.Resolve(req) + "." + r.srvType
 }
 
+//for the old version, there is no type in the url
+func (r Resolver) ResolveWithoutType(req *http.Request) string {
+	return r.Resolve(req)
+}
+
 func (r Resolver) Resolve(req *http.Request) string {
 	// check to see what the provided namespace is, we only do
 	// domain mapping if the namespace is set to 'domain'
