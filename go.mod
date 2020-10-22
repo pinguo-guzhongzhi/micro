@@ -34,6 +34,6 @@ require (
 	google.golang.org/grpc v1.26.0
 )
 
-replace github.com/micro/go-micro/v2 => github.com/pinguo-guzhongzhi/go-micro/v2 v2.0.0-20201022043738-aef239258e73
+replace github.com/micro/go-micro/v2 => github.com/pinguo-guzhongzhi/go-micro/v2 v2.9.3
 
 //replace github.com/micro/go-micro/v2 => ../go-micro

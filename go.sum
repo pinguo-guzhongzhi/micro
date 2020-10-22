@@ -413,6 +413,8 @@ github.com/pinguo-guzhongzhi/go-micro/v2 v2.0.0-20201022043738-aef239258e73 h1:6
 github.com/pinguo-guzhongzhi/go-micro/v2 v2.0.0-20201022043738-aef239258e73/go.mod h1:x55ZM3Puy0FyvvkR3e0ha0xsE9DFwfPSUMWAIbFY0SY=
 github.com/pinguo-guzhongzhi/go-micro/v2 v2.9.1 h1:YAOyVi/Ip+M6c+53NXuQj4hwKxbhMeYK1sRemX9byMM=
 github.com/pinguo-guzhongzhi/go-micro/v2 v2.9.1/go.mod h1:x55ZM3Puy0FyvvkR3e0ha0xsE9DFwfPSUMWAIbFY0SY=
+github.com/pinguo-guzhongzhi/go-micro/v2 v2.9.3 h1:m5lLuTaMDNsM83DjgzoOF8AjOEy1KVTcH6jKopTO574=
+github.com/pinguo-guzhongzhi/go-micro/v2 v2.9.3/go.mod h1:x55ZM3Puy0FyvvkR3e0ha0xsE9DFwfPSUMWAIbFY0SY=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
